@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "AFK__Bot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "HEART0SMP0S1.aternos.me",
+    "port": 26989,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "bot12345"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player",
+        "My owner is Lamgerr",
+        "I want be alone"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1
+  }
+}
